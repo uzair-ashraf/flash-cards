@@ -1,0 +1,6 @@
+class LoginForm {
+  constructor() {
+    
+  }
+  render()
+}
